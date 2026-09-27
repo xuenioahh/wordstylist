@@ -1,0 +1,13 @@
+{
+  "base_build": "v142-integrated-portraits",
+  "source_files": [
+    "index.html",
+    "styles.css",
+    "app.js"
+  ],
+  "style_blocks": 63,
+  "script_blocks": 146,
+  "asset_count": 58,
+  "assets_are_binary_files": true,
+  "notes": "app.js and styles.css are ordered concatenations of the original runtime blocks; comments preserve each original block id and order."
+}
